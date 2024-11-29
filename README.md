@@ -1,6 +1,6 @@
 # space_animation
 
-## 🚀🌌 Space App: Explore the Cosmos
+## 🚀🌌 Space App
 - A Flutter app that lets users create, customize, and store their virtual space experiences with smooth animations and persistent data storage using SharedPreferences.
 
 - This app provides an interactive and visually appealing experience for users to build their unique space environments, with user preferences saved locally to ensure persistence between sessions.
